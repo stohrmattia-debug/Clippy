@@ -15,7 +15,7 @@
 
 Join the discord server of the people that brought him back: https://discord.gg/3WYcKat
 
-Clippy can be pinned to the screen for quick access to chat or just be left for nostalgia.</p>
+</p>
 </div>
 
 
