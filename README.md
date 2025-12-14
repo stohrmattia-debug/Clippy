@@ -11,7 +11,7 @@
 <a href="https://github.com/FireCubeStudios/Clippy/fork"><img src="https://img.shields.io/github/forks/FireCubeStudios/Clippy"></a>
 <a href="https://github.com/FireCubeStudios/Clippy/stargazers/"><img src="https://img.shields.io/github/stars/FireCubeStudios/Clippy"></a>
 
-<p style="font-size:15px;">Clippy by FireCube (Not by Microsoft) brings back the infamous Clippit into your desktop powered by the OpenAI GPT 3.5 model (OpenAI key required as of this version).
+<p style="font-size:15px;">Clippy by FireCube (Not by Microsoft) brings back the infamous Clippit into your desktop powered by the OpenAI GPT 5.2 model (OpenAI key required as of this version).
 
 Clippy can be pinned to the screen for quick access to chat or just be left for nostalgia.</p>
 </div>
@@ -24,7 +24,7 @@ Clippy can be pinned to the screen for quick access to chat or just be left for 
   </p>
 
 
-<a href="https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T"><img width="35%" src="https://raw.githubusercontent.com/FireCubeStudios/Protecc/711c253df88f36aa63f55b88bafae16a979c69e0/Assets/Get_it_from_Microsoft_Badge.svg" alt="Get Clippy from Microsoft Store"></a>
+ src="https://raw.githubusercontent.com/FireCubeStudios/Protecc/711c253df88f36aa63f55b88bafae16a979c69e0/Assets/Get_it_from_Microsoft_Badge.svg" alt="Get Clippy from Microsoft Store"></a>
   
   
   ### Architecture of app:
