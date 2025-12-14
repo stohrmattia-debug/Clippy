@@ -75,7 +75,14 @@ namespace Clippy
         {
             var services = new ServiceCollection();
 
-            services.AddSingleton<IChatService, ChatService>();
+            services.AddSingleton<IChatService>(sp =>
+{
+    var settings = sp.GetRequiredService<ISettingsService>();
+    return new OpenAIChatService(;
+	apiKey: settings.OpenAIApiKey,
+	model: "gpt-5.2" 
+	  );
+});
             services.AddSingleton<IKeyService, KeyService>();
             services.AddSingleton<ISettingsService, SettingsService>();
             services.AddSingleton<ClippyViewModel>();
