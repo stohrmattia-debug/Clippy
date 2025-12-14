@@ -13,6 +13,8 @@
 
 <p style="font-size:15px;">Clippy by FireCube (Not by Microsoft) brings back the infamous Clippit into your desktop powered by the OpenAI GPT 5.2 model (OpenAI key required as of this version).
 
+Join the discord server of the people that brought him back: https://discord.gg/3WYcKat
+
 Clippy can be pinned to the screen for quick access to chat or just be left for nostalgia.</p>
 </div>
 
