@@ -24,7 +24,7 @@ Clippy can be pinned to the screen for quick access to chat or just be left for 
   </p>
 
 
- src="https://raw.githubusercontent.com/FireCubeStudios/Protecc/711c253df88f36aa63f55b88bafae16a979c69e0/Assets/Get_it_from_Microsoft_Badge.svg" alt="Get Clippy from Microsoft Store"></a>
+
   
   
   ### Architecture of app:
